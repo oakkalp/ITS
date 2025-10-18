@@ -1,0 +1,1247 @@
+-- Dosya Backup Listesi
+-- Tarih: 2025-10-09 03:13:55
+
+FILE: README.md
+SIZE: 7899 bytes
+DATE: 2025-10-09 03:06:46
+
+FILE: admin/firmalar.php
+SIZE: 7726 bytes
+DATE: 2025-10-08 21:53:08
+
+FILE: admin/kullanicilar.php
+SIZE: 9369 bytes
+DATE: 2025-10-08 21:53:08
+
+FILE: api/admin/firma-aktivite.php
+SIZE: 1143 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/admin/firmalar.php
+SIZE: 3714 bytes
+DATE: 2025-10-08 21:10:21
+
+FILE: api/admin/kullanici-dagilim.php
+SIZE: 1371 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/admin/kullanicilar.php
+SIZE: 4624 bytes
+DATE: 2025-10-08 21:26:53
+
+FILE: api/admin/stats.php
+SIZE: 1503 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/auth/login.php
+SIZE: 1050 bytes
+DATE: 2025-10-08 21:08:42
+
+FILE: api/cariler/create.php
+SIZE: 1801 bytes
+DATE: 2025-10-08 22:35:21
+
+FILE: api/cariler/delete.php
+SIZE: 939 bytes
+DATE: 2025-10-08 21:12:50
+
+FILE: api/cariler/ekstre.php
+SIZE: 8383 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/cariler/faturalar.php
+SIZE: 654 bytes
+DATE: 2025-10-08 22:19:41
+
+FILE: api/cariler/genel_odeme.php
+SIZE: 2858 bytes
+DATE: 2025-10-08 23:43:04
+
+FILE: api/cariler/get.php
+SIZE: 576 bytes
+DATE: 2025-10-08 21:12:50
+
+FILE: api/cariler/hareketler.php
+SIZE: 3613 bytes
+DATE: 2025-10-09 00:00:14
+
+FILE: api/cariler/list.php
+SIZE: 664 bytes
+DATE: 2025-10-08 22:50:57
+
+FILE: api/cariler/update.php
+SIZE: 1067 bytes
+DATE: 2025-10-08 21:12:50
+
+FILE: api/cekler/create.php
+SIZE: 2758 bytes
+DATE: 2025-10-09 01:07:54
+
+FILE: api/cekler/delete.php
+SIZE: 649 bytes
+DATE: 2025-10-08 22:00:11
+
+FILE: api/cekler/get.php
+SIZE: 845 bytes
+DATE: 2025-10-09 01:07:54
+
+FILE: api/cekler/list.php
+SIZE: 875 bytes
+DATE: 2025-10-09 01:07:54
+
+FILE: api/cekler/update.php
+SIZE: 2332 bytes
+DATE: 2025-10-09 01:07:54
+
+FILE: api/dashboard/alacaklar.php
+SIZE: 780 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/dashboard/borclar.php
+SIZE: 776 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/dashboard/firma_stats.php
+SIZE: 1985 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/dashboard/gelir-gider-chart.php
+SIZE: 2878 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/dashboard/son-hareketler.php
+SIZE: 1896 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/dashboard/stok-durum-chart.php
+SIZE: 1281 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/dashboard/super_admin_stats.php
+SIZE: 579 bytes
+DATE: 2025-10-08 21:26:53
+
+FILE: api/dashboard/uyarilar.php
+SIZE: 3580 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/faturalar/create.php
+SIZE: 4085 bytes
+DATE: 2025-10-09 00:11:20
+
+FILE: api/faturalar/delete.php
+SIZE: 1945 bytes
+DATE: 2025-10-08 22:43:33
+
+FILE: api/faturalar/detay.php
+SIZE: 847 bytes
+DATE: 2025-10-09 00:51:05
+
+FILE: api/faturalar/get.php
+SIZE: 839 bytes
+DATE: 2025-10-09 00:51:05
+
+FILE: api/faturalar/list.php
+SIZE: 1257 bytes
+DATE: 2025-10-08 22:00:11
+
+FILE: api/firma/bilgiler.php
+SIZE: 465 bytes
+DATE: 2025-10-08 22:19:41
+
+FILE: api/firma/guncelle.php
+SIZE: 755 bytes
+DATE: 2025-10-08 22:19:41
+
+FILE: api/firma/kullanicilar.php
+SIZE: 7342 bytes
+DATE: 2025-10-08 22:19:41
+
+FILE: api/firma/logo_upload.php
+SIZE: 2085 bytes
+DATE: 2025-10-09 00:18:24
+
+FILE: api/firma/moduller.php
+SIZE: 341 bytes
+DATE: 2025-10-08 21:26:53
+
+FILE: api/firma/yetkiler.php
+SIZE: 886 bytes
+DATE: 2025-10-08 22:19:41
+
+FILE: api/flutter/auth.php
+SIZE: 8759 bytes
+DATE: 2025-10-09 02:22:15
+
+FILE: api/flutter/dashboard.php
+SIZE: 17612 bytes
+DATE: 2025-10-09 02:22:15
+
+FILE: api/flutter/flutter_api.php
+SIZE: 8720 bytes
+DATE: 2025-10-09 02:13:03
+
+FILE: api/flutter/simple_api.php
+SIZE: 7279 bytes
+DATE: 2025-10-09 02:22:15
+
+FILE: api/kasa/create.php
+SIZE: 2496 bytes
+DATE: 2025-10-09 00:51:05
+
+FILE: api/kasa/delete.php
+SIZE: 675 bytes
+DATE: 2025-10-08 22:00:11
+
+FILE: api/kasa/list.php
+SIZE: 540 bytes
+DATE: 2025-10-08 22:00:11
+
+FILE: api/kasa/stats.php
+SIZE: 890 bytes
+DATE: 2025-10-08 22:00:11
+
+FILE: api/mobile/browser-notification.php
+SIZE: 5763 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/mobile/cek-vade-takip.php
+SIZE: 4619 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/mobile/save-fcm-token.php
+SIZE: 860 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/mobile/tahsilat-takip.php
+SIZE: 4847 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/mobile/test-notification.php
+SIZE: 2385 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/odemeler/create.php
+SIZE: 3566 bytes
+DATE: 2025-10-08 23:43:04
+
+FILE: api/odemeler/faturalar.php
+SIZE: 720 bytes
+DATE: 2025-10-08 22:35:21
+
+FILE: api/odemeler/stats.php
+SIZE: 724 bytes
+DATE: 2025-10-08 22:35:21
+
+FILE: api/personel/create.php
+SIZE: 1547 bytes
+DATE: 2025-10-08 22:43:33
+
+FILE: api/personel/delete.php
+SIZE: 669 bytes
+DATE: 2025-10-08 22:19:41
+
+FILE: api/personel/get.php
+SIZE: 588 bytes
+DATE: 2025-10-08 22:19:41
+
+FILE: api/personel/list.php
+SIZE: 515 bytes
+DATE: 2025-10-08 22:19:41
+
+FILE: api/personel/update.php
+SIZE: 972 bytes
+DATE: 2025-10-08 22:43:33
+
+FILE: api/raporlar/alacaklar.php
+SIZE: 567 bytes
+DATE: 2025-10-08 22:00:11
+
+FILE: api/raporlar/aylik.php
+SIZE: 913 bytes
+DATE: 2025-10-08 22:00:11
+
+FILE: api/raporlar/borclar.php
+SIZE: 564 bytes
+DATE: 2025-10-08 22:00:11
+
+FILE: api/raporlar/genel.php
+SIZE: 1275 bytes
+DATE: 2025-10-08 22:00:11
+
+FILE: api/raporlar/kar-zarar.php
+SIZE: 7175 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/raporlar/urunler.php
+SIZE: 936 bytes
+DATE: 2025-10-08 22:43:33
+
+FILE: api/stok/create.php
+SIZE: 1747 bytes
+DATE: 2025-10-08 22:43:33
+
+FILE: api/stok/delete.php
+SIZE: 970 bytes
+DATE: 2025-10-08 21:53:08
+
+FILE: api/stok/get.php
+SIZE: 580 bytes
+DATE: 2025-10-08 21:53:08
+
+FILE: api/stok/hareket-raporu.php
+SIZE: 5510 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: api/stok/list.php
+SIZE: 668 bytes
+DATE: 2025-10-08 22:50:57
+
+FILE: api/stok/update.php
+SIZE: 1570 bytes
+DATE: 2025-10-09 00:11:20
+
+FILE: backup_auto.php
+SIZE: 2654 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: bildirim-test.php
+SIZE: 10107 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: config.php
+SIZE: 8778 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: config_production.php
+SIZE: 6163 bytes
+DATE: 2025-10-09 02:13:03
+
+FILE: cron_notifications.php
+SIZE: 2892 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: css/.DS_Store
+SIZE: 6148 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: css/bootstrap/.DS_Store
+SIZE: 6148 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: css/bootstrap/mixins/.DS_Store
+SIZE: 6148 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: css/bootstrap/mixins/_caret.css
+SIZE: 0 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: css/bootstrap/mixins/_reset-text.css
+SIZE: 0 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: css/bootstrap/mixins/_table-row.css
+SIZE: 0 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: css/bootstrap/mixins/_visibility.css
+SIZE: 0 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: css/bootstrap.min.css
+SIZE: 160392 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: css/ionicons.min.css
+SIZE: 46816 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: css/style.css
+SIZE: 224096 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: dashboard.php
+SIZE: 20456 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: dashboard_original.php
+SIZE: 20456 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: database_migration.sql
+SIZE: 2288 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: database_setup.sql
+SIZE: 15363 bytes
+DATE: 2025-10-09 02:43:57
+
+FILE: db_check.php
+SIZE: 2841 bytes
+DATE: 2025-10-08 22:55:47
+
+FILE: deploy_production.php
+SIZE: 12560 bytes
+DATE: 2025-10-09 02:13:04
+
+FILE: deployment_2025-10-09_01-12-26/DEPLOYMENT_INSTRUCTIONS.md
+SIZE: 1879 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/config.php
+SIZE: 6163 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/database_migration.sql
+SIZE: 2288 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/android/app/build.gradle
+SIZE: 47 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/android/app/src/main/AndroidManifest.xml
+SIZE: 63 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/lib/main.dart
+SIZE: 36 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/lib/models/cari_model.dart
+SIZE: 49 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/lib/models/fatura_model.dart
+SIZE: 51 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/lib/models/user_model.dart
+SIZE: 49 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/lib/screens/cariler_screen.dart
+SIZE: 54 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/lib/screens/cekler_screen.dart
+SIZE: 53 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/lib/screens/dashboard_screen.dart
+SIZE: 56 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/lib/screens/faturalar_screen.dart
+SIZE: 56 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/lib/screens/login_screen.dart
+SIZE: 52 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/lib/screens/stok_screen.dart
+SIZE: 51 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/lib/services/api_service.dart
+SIZE: 52 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/lib/services/auth_service.dart
+SIZE: 53 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/lib/services/notification_service.dart
+SIZE: 61 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/lib/widgets/custom_app_bar.dart
+SIZE: 54 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/lib/widgets/loading_widget.dart
+SIZE: 54 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: deployment_2025-10-09_01-12-26/flutter_project/pubspec.yaml
+SIZE: 35 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: direct_api_test.php
+SIZE: 2855 bytes
+DATE: 2025-10-09 00:30:07
+
+FILE: error_log_check.php
+SIZE: 2436 bytes
+DATE: 2025-10-08 23:13:07
+
+FILE: firma/ayarlar.php
+SIZE: 6086 bytes
+DATE: 2025-10-09 00:18:24
+
+FILE: firma/kullanicilar.php
+SIZE: 10923 bytes
+DATE: 2025-10-08 21:53:21
+
+FILE: fix_admin_password.php
+SIZE: 3577 bytes
+DATE: 2025-10-08 21:26:53
+
+FILE: fix_faturalar_table.php
+SIZE: 3647 bytes
+DATE: 2025-10-08 23:05:29
+
+FILE: fix_kasa_hareketleri.php
+SIZE: 2154 bytes
+DATE: 2025-10-08 23:19:20
+
+FILE: flutter_api_test.html
+SIZE: 15902 bytes
+DATE: 2025-10-09 03:06:48
+
+FILE: flutter_project/android/app/build.gradle
+SIZE: 47 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/android/app/src/main/AndroidManifest.xml
+SIZE: 63 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/lib/main.dart
+SIZE: 36 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/lib/models/cari_model.dart
+SIZE: 49 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/lib/models/fatura_model.dart
+SIZE: 51 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/lib/models/user_model.dart
+SIZE: 49 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/lib/screens/cariler_screen.dart
+SIZE: 54 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/lib/screens/cekler_screen.dart
+SIZE: 53 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/lib/screens/dashboard_screen.dart
+SIZE: 56 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/lib/screens/faturalar_screen.dart
+SIZE: 56 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/lib/screens/login_screen.dart
+SIZE: 52 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/lib/screens/stok_screen.dart
+SIZE: 51 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/lib/services/api_service.dart
+SIZE: 52 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/lib/services/auth_service.dart
+SIZE: 53 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/lib/services/notification_service.dart
+SIZE: 61 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/lib/widgets/custom_app_bar.dart
+SIZE: 54 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/lib/widgets/loading_widget.dart
+SIZE: 54 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: flutter_project/pubspec.yaml
+SIZE: 35 bytes
+DATE: 2025-10-09 02:12:26
+
+FILE: fonts/.DS_Store
+SIZE: 6148 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: fonts/ionicons/.DS_Store
+SIZE: 6148 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: fonts/ionicons/css/_ionicons.scss
+SIZE: 57268 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: fonts/ionicons/css/ionicons.min.css
+SIZE: 51284 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: fonts/ionicons/fonts/.DS_Store
+SIZE: 6148 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: fonts/ionicons/fonts/ionicons.eot
+SIZE: 112826 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: fonts/ionicons/fonts/ionicons.svg
+SIZE: 313199 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: fonts/ionicons/fonts/ionicons.ttf
+SIZE: 112648 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: fonts/ionicons/fonts/ionicons.woff
+SIZE: 66024 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: fonts/ionicons/fonts/ionicons.woff2
+SIZE: 50592 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: includes/auth.php
+SIZE: 10189 bytes
+DATE: 2025-10-09 03:06:46
+
+FILE: includes/backup.php
+SIZE: 8315 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: includes/firebase_notification.php
+SIZE: 5480 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: includes/footer.php
+SIZE: 6874 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: includes/header.php
+SIZE: 12986 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: includes/security.php
+SIZE: 7737 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: includes/xampp_backup.php
+SIZE: 10168 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: install.php
+SIZE: 7918 bytes
+DATE: 2025-10-08 16:31:24
+
+FILE: install.sql
+SIZE: 12048 bytes
+DATE: 2025-10-08 16:28:38
+
+FILE: install_process.php
+SIZE: 7128 bytes
+DATE: 2025-10-08 20:52:55
+
+FILE: js/.DS_Store
+SIZE: 6148 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: js/bootstrap.min.js
+SIZE: 63240 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: js/jquery.min.js
+SIZE: 69916 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: js/main.js
+SIZE: 333 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: js/popper.js
+SIZE: 21003 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: js_test.html
+SIZE: 774 bytes
+DATE: 2025-10-08 23:01:59
+
+FILE: login.php
+SIZE: 7275 bytes
+DATE: 2025-10-08 21:03:40
+
+FILE: logout.php
+SIZE: 93 bytes
+DATE: 2025-10-08 21:03:40
+
+FILE: manifest.json
+SIZE: 2429 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: mobile-test.php
+SIZE: 13331 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: mobiluygulamaiconu.png
+SIZE: 1352044 bytes
+DATE: 2025-10-09 01:27:04
+
+FILE: modules/cariler/detay.php
+SIZE: 14133 bytes
+DATE: 2025-10-09 00:51:05
+
+FILE: modules/cariler/ekstre.php
+SIZE: 12840 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: modules/cariler/list.php
+SIZE: 14265 bytes
+DATE: 2025-10-08 23:38:13
+
+FILE: modules/cekler/list.php
+SIZE: 14524 bytes
+DATE: 2025-10-09 01:19:14
+
+FILE: modules/faturalar/create.php
+SIZE: 18858 bytes
+DATE: 2025-10-08 23:01:59
+
+FILE: modules/faturalar/list.php
+SIZE: 6602 bytes
+DATE: 2025-10-08 22:00:11
+
+FILE: modules/faturalar/view.php
+SIZE: 12171 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: modules/kasa/list.php
+SIZE: 10735 bytes
+DATE: 2025-10-09 00:29:34
+
+FILE: modules/odemeler/list.php
+SIZE: 9700 bytes
+DATE: 2025-10-08 23:20:51
+
+FILE: modules/personel/list.php
+SIZE: 8120 bytes
+DATE: 2025-10-08 22:47:48
+
+FILE: modules/raporlar/index.php
+SIZE: 9510 bytes
+DATE: 2025-10-08 22:00:11
+
+FILE: modules/raporlar/kar-zarar.php
+SIZE: 18134 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: modules/stok/hareket-raporu.php
+SIZE: 14373 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: modules/stok/list.php
+SIZE: 10253 bytes
+DATE: 2025-10-09 00:11:20
+
+FILE: onmuhasebeceksenet-10bff7999d8d.json
+SIZE: 2394 bytes
+DATE: 2025-10-09 01:48:50
+
+FILE: optimize_database.php
+SIZE: 7683 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: production_192_deployment/api/flutter/simple_api.php
+SIZE: 7293 bytes
+DATE: 2025-10-09 02:41:11
+
+FILE: production_192_deployment/config.php
+SIZE: 4002 bytes
+DATE: 2025-10-09 02:40:46
+
+FILE: production_192_deployment/dashboard.php
+SIZE: 11700 bytes
+DATE: 2025-10-09 02:38:36
+
+FILE: production_192_deployment/flutter_api_test.html
+SIZE: 8521 bytes
+DATE: 2025-10-09 02:42:32
+
+FILE: production_192_deployment/login.php
+SIZE: 7426 bytes
+DATE: 2025-10-09 02:38:36
+
+FILE: production_192_deployment/logout.php
+SIZE: 173 bytes
+DATE: 2025-10-09 02:42:39
+
+FILE: production_deployment_2025-10-09_01-22-02/README.md
+SIZE: 823 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: production_deployment_2025-10-09_01-22-02/api/flutter/simple_api.php
+SIZE: 7279 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: production_deployment_2025-10-09_01-22-02/config.php
+SIZE: 807 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: production_deployment_2025-10-09_01-22-02/dashboard.php
+SIZE: 20456 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: production_deployment_2025-10-09_01-22-02/database_migration.sql
+SIZE: 1930 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: production_deployment_2025-10-09_01-22-02/flutter_api_test.html
+SIZE: 16294 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: production_deployment_2025-10-09_01-22-02/includes/auth.php
+SIZE: 10558 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: production_deployment_2025-10-09_01-22-02/includes/footer.php
+SIZE: 6874 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: production_deployment_2025-10-09_01-22-02/includes/header.php
+SIZE: 12986 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: production_deployment_2025-10-09_01-22-02/login.php
+SIZE: 7275 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: production_deployment_2025-10-09_01-22-02/logout.php
+SIZE: 93 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: production_deployment_2025-10-09_01-22-02/manifest.json
+SIZE: 2429 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: production_deployment_2025-10-09_01-22-02/mobiluygulamaiconu.png
+SIZE: 1352044 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: production_deployment_2025-10-09_01-22-02/sw.js
+SIZE: 4475 bytes
+DATE: 2025-10-09 02:22:02
+
+FILE: scss/.DS_Store
+SIZE: 8196 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/.DS_Store
+SIZE: 10244 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_alert.scss
+SIZE: 1148 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_badge.scss
+SIZE: 1119 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_breadcrumb.scss
+SIZE: 1278 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_button-group.scss
+SIZE: 3624 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_buttons.scss
+SIZE: 2547 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_card.scss
+SIZE: 5872 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_carousel.scss
+SIZE: 4756 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_close.scss
+SIZE: 956 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_code.scss
+SIZE: 1013 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_custom-forms.scss
+SIZE: 14866 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_dropdown.scss
+SIZE: 4363 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_forms.scss
+SIZE: 8816 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_functions.scss
+SIZE: 2719 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_grid.scss
+SIZE: 1016 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_images.scss
+SIZE: 1153 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_input-group.scss
+SIZE: 5855 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_jumbotron.scss
+SIZE: 405 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_list-group.scss
+SIZE: 3752 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_media.scss
+SIZE: 83 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_mixins.scss
+SIZE: 1059 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_modal.scss
+SIZE: 5930 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_nav.scss
+SIZE: 2069 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_navbar.scss
+SIZE: 6415 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_pagination.scss
+SIZE: 1740 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_popover.scss
+SIZE: 4797 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_print.scss
+SIZE: 3001 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_progress.scss
+SIZE: 1068 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_reboot.scss
+SIZE: 11187 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_root.scss
+SIZE: 572 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_spinners.scss
+SIZE: 1051 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_tables.scss
+SIZE: 3520 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_toasts.scss
+SIZE: 990 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_tooltip.scss
+SIZE: 2512 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_transitions.scss
+SIZE: 261 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_type.scss
+SIZE: 2244 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_utilities.scss
+SIZE: 502 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/_variables.scss
+SIZE: 47781 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/bootstrap-grid.scss
+SIZE: 572 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/bootstrap-reboot.scss
+SIZE: 411 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/bootstrap.scss
+SIZE: 920 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_alert.scss
+SIZE: 242 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_background-variant.scss
+SIZE: 474 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_badge.scss
+SIZE: 318 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_border-radius.scss
+SIZE: 1340 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_box-shadow.scss
+SIZE: 532 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_breakpoints.scss
+SIZE: 4482 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_buttons.scss
+SIZE: 3369 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_caret.scss
+SIZE: 1406 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_clearfix.scss
+SIZE: 93 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_deprecate.scss
+SIZE: 613 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_float.scss
+SIZE: 386 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_forms.scss
+SIZE: 4912 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_gradients.scss
+SIZE: 2050 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_grid-framework.scss
+SIZE: 1828 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_grid.scss
+SIZE: 1568 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_hover.scss
+SIZE: 749 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_image.scss
+SIZE: 1159 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_list-group.scss
+SIZE: 431 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_lists.scss
+SIZE: 168 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_nav-divider.scss
+SIZE: 261 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_pagination.scss
+SIZE: 462 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_reset-text.scss
+SIZE: 479 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_resize.scss
+SIZE: 202 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_screen-reader.scss
+SIZE: 733 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_size.scss
+SIZE: 148 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_table-row.scss
+SIZE: 792 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_text-emphasis.scss
+SIZE: 364 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_text-hide.scss
+SIZE: 326 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_text-truncate.scss
+SIZE: 168 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_transition.scss
+SIZE: 364 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/mixins/_visibility.scss
+SIZE: 189 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_align.scss
+SIZE: 420 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_background.scss
+SIZE: 397 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_borders.scss
+SIZE: 1765 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_clearfix.scss
+SIZE: 37 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_display.scss
+SIZE: 519 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_embed.scss
+SIZE: 846 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_flex.scss
+SIZE: 2769 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_float.scss
+SIZE: 376 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_overflow.scss
+SIZE: 133 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_position.scss
+SIZE: 484 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_screenreaders.scss
+SIZE: 115 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_shadows.scss
+SIZE: 249 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_sizing.scss
+SIZE: 498 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_spacing.scss
+SIZE: 2101 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_stretched-link.scss
+SIZE: 431 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_text.scss
+SIZE: 2010 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/utilities/_visibility.scss
+SIZE: 174 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/bootstrap/vendor/_rfs.scss
+SIZE: 6473 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: scss/style.scss
+SIZE: 5293 bytes
+DATE: 2024-10-18 23:42:00
+
+FILE: setup_mobile_database.php
+SIZE: 1947 bytes
+DATE: 2025-10-09 02:14:34
+
+FILE: sw.js
+SIZE: 4475 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: system_status.php
+SIZE: 8398 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: test_api.php
+SIZE: 4235 bytes
+DATE: 2025-10-08 22:50:57
+
+FILE: test_firebase.php
+SIZE: 1151 bytes
+DATE: 2025-10-09 02:10:03
+
+FILE: test_login_api.php
+SIZE: 2262 bytes
+DATE: 2025-10-08 21:08:42
+
+FILE: test_mysql.php
+SIZE: 2291 bytes
+DATE: 2025-10-08 20:19:27
+
+FILE: uploads/logos/logo_1_1759958359.png
+SIZE: 1608675 bytes
+DATE: 2025-10-09 00:19:19
+
+FILE: uploads/logos/logo_2_1759959197.png
+SIZE: 1286198 bytes
+DATE: 2025-10-09 00:33:17
+

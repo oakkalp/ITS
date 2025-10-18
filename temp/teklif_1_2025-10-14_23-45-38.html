@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Teklif - 1</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 0; 
+            padding: 20px; 
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .header { 
+            text-align: center; 
+            margin-bottom: 40px; 
+            border-bottom: 3px solid #007bff;
+            padding-bottom: 20px;
+        }
+        .header h1 {
+            color: #007bff;
+            font-size: 32px;
+            margin: 0;
+            font-weight: bold;
+        }
+        .header h2 {
+            color: #333;
+            font-size: 20px;
+            margin: 10px 0 0 0;
+            font-weight: normal;
+        }
+        .info-section {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 30px;
+        }
+        .company-info, .customer-info { 
+            flex: 1;
+            margin: 0 10px;
+        }
+        .company-info h3, .customer-info h3 {
+            color: #333;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+        }
+        .company-info p, .customer-info p {
+            margin: 5px 0;
+            font-size: 14px;
+        }
+        .teklif-bilgileri {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 30px;
+        }
+        .teklif-bilgileri p {
+            margin: 5px 0;
+            font-size: 14px;
+        }
+        table { 
+            width: 100%; 
+            border-collapse: collapse; 
+            margin-bottom: 30px; 
+            font-size: 13px;
+        }
+        th, td { 
+            border: 1px solid #ddd; 
+            padding: 10px; 
+            text-align: left; 
+        }
+        th { 
+            background-color: #007bff; 
+            color: white;
+            font-weight: bold;
+            text-align: center;
+        }
+        td {
+            text-align: center;
+        }
+        td:first-child, td:nth-child(2) {
+            text-align: left;
+        }
+        .total-section { 
+            text-align: right; 
+            margin-top: 20px;
+        }
+        .total-section p {
+            margin: 8px 0;
+            font-size: 14px;
+        }
+        .genel-toplam {
+            background-color: #007bff;
+            color: white;
+            padding: 15px;
+            border-radius: 5px;
+            font-size: 18px;
+            font-weight: bold;
+            margin-top: 15px;
+        }
+        
+        /* Print CSS */
+        @media print {
+            body { 
+                margin: 0; 
+                padding: 0; 
+                background-color: white;
+            }
+            .container {
+                max-width: none;
+                margin: 0;
+                padding: 20px;
+                box-shadow: none;
+                border-radius: 0;
+            }
+            .header {
+                border-bottom: 3px solid #000;
+            }
+            .header h1 {
+                color: #000;
+            }
+            .info-section {
+                page-break-inside: avoid;
+            }
+            table {
+                page-break-inside: avoid;
+            }
+            .total-section {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>TEKLİF</h1>
+            <h2>İSTANBUL A:Ş OTOYOL</h2>
+        </div>
+        
+        <div class="info-section">
+            <div class="company-info">
+                <h3>Firma Bilgileri</h3>
+                <p><strong>ARLI BOTANİK</strong></p>
+                <p>Tel: 0 536 886 00 84</p>
+                <p>Email: info@arlibotanik.com</p>
+                <p>Adres: Gölcük Mahallesi Ödemiş / İzmir</p>
+            </div>
+            
+            <div class="customer-info">
+                <h3>Teklif Verilen</h3>
+                <p><strong></strong></p>
+                <p>Tel: </p>
+                <p>Email: </p>
+                <p>Adres: </p>
+            </div>
+        </div>
+        
+        <div class="teklif-bilgileri">
+            <p><strong>Teklif No:</strong> 1</p>
+            <p><strong>Teklif Tarihi:</strong> 14.10.2025</p>
+            <p><strong>Geçerlilik Tarihi:</strong> 29.10.2025</p>
+        </div>
+    
+        <table>
+            <thead>
+                <tr>
+                    <th>Sıra</th>
+                    <th>Ürün/Hizmet</th>
+                    <th>Miktar</th>
+                    <th>Birim Fiyat</th>
+                    <th>KDV %</th>
+                    <th>KDV Tutarı</th>
+                    <th>Toplam</th>
+                </tr>
+            </thead>
+            <tbody><tr>
+                    <td>1</td>
+                    <td>Leylandi 2 M</td>
+                    <td>9,00 adet</td>
+                    <td>99,00 ₺</td>
+                    <td>%20</td>
+                    <td>178,20 ₺</td>
+                    <td>1.069,20 ₺</td>
+                  </tr><tr>
+                    <td>2</td>
+                    <td>9999</td>
+                    <td>99,00 adet</td>
+                    <td>9,00 ₺</td>
+                    <td>%20</td>
+                    <td>178,20 ₺</td>
+                    <td>1.069,20 ₺</td>
+                  </tr></tbody>
+        </table>
+        
+        <div class="total-section">
+            <p>Ara Toplam: 1.782,00 ₺</p>
+            <p>KDV Toplam: 356,40 ₺</p>
+            <div class="genel-toplam">
+                GENEL TOPLAM: 2.138,40 ₺
+            </div>
+        </div>
+    </div>
+</body>
+</html>

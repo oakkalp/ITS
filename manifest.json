@@ -1,0 +1,85 @@
+{
+    "name": "Fidan Takip Sistemi",
+    "short_name": "Fidan Takip",
+    "description": "Muhasebe ve stok takip sistemi",
+    "start_url": "/muhasebedemo/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2196f3",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "mobiluygulamaiconu.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "mobiluygulamaiconu.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["business", "productivity"],
+    "lang": "tr",
+    "dir": "ltr",
+    "scope": "/muhasebedemo/",
+    "prefer_related_applications": false,
+    "related_applications": [],
+    "screenshots": [
+        {
+            "src": "screenshots/dashboard.png",
+            "sizes": "1280x720",
+            "type": "image/png",
+            "form_factor": "wide"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Yeni Cari",
+            "short_name": "Cari",
+            "description": "Yeni cari hesap ekle",
+            "url": "/muhasebedemo/modules/cariler/list.php",
+            "icons": [
+                {
+                    "src": "mobiluygulamaiconu.png",
+                    "sizes": "96x96"
+                }
+            ]
+        },
+        {
+            "name": "Yeni Fatura",
+            "short_name": "Fatura",
+            "description": "Yeni fatura oluştur",
+            "url": "/muhasebedemo/modules/faturalar/create.php?tip=satis",
+            "icons": [
+                {
+                    "src": "mobiluygulamaiconu.png",
+                    "sizes": "96x96"
+                }
+            ]
+        },
+        {
+            "name": "Kasa İşlemi",
+            "short_name": "Kasa",
+            "description": "Kasa hareketi ekle",
+            "url": "/muhasebedemo/modules/kasa/list.php",
+            "icons": [
+                {
+                    "src": "mobiluygulamaiconu.png",
+                    "sizes": "96x96"
+                }
+            ]
+        }
+    ],
+    "share_target": {
+        "action": "/muhasebedemo/modules/cariler/list.php",
+        "method": "GET",
+        "params": {
+            "title": "title",
+            "text": "text",
+            "url": "url"
+        }
+    }
+}

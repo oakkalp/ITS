@@ -1,0 +1,18 @@
+RewriteEngine On
+
+# HTTP metodlarını koru
+RewriteCond %{REQUEST_METHOD} ^(PUT|DELETE|PATCH)$
+RewriteRule .* - [E=HTTP_METHOD:%{REQUEST_METHOD}]
+
+# CORS headers
+Header always set Access-Control-Allow-Origin "*"
+Header always set Access-Control-Allow-Methods "GET, POST, PUT, DELETE, PATCH, OPTIONS"
+Header always set Access-Control-Allow-Headers "Content-Type, Authorization, X-Requested-With"
+
+# OPTIONS request'leri için
+RewriteCond %{REQUEST_METHOD} OPTIONS
+RewriteRule ^(.*)$ $1 [R=200,L]
+
+# PUT ve DELETE metodları için
+RewriteCond %{REQUEST_METHOD} ^(PUT|DELETE)$
+RewriteRule ^(.*)$ $1 [QSA,L]

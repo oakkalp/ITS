@@ -344,9 +344,20 @@ console.log('Debug info:', debugData);
 3. Advanced features
 4. Third-party integrations
 
+## 📱 Uygulama İçi Resimler
+
+### Ana Dashboard
+![Dashboard Ekran Görüntüsü](screenshots/Ekran%20görüntüsü%202025-10-18%20193350.png)
+
+### Sistem Ayarları
+![Sistem Ayarları Ekran Görüntüsü](screenshots/Ekran%20görüntüsü%202025-10-18%20193455.png)
+
+### Genel Sistem Görünümü
+![Genel Sistem Görünümü](screenshots/Adsız.png)
+
 ---
 
-**Son Güncelleme**: 11 Ekim 2025
+**Son Güncelleme**: 18 Ekim 2025
 **Versiyon**: 1.0.0
 **Durum**: Stabil (Test edilmiş modüller)
 **Not**: Bu dokümantasyon sürekli güncellenmelidir.
